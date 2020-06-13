@@ -15,10 +15,10 @@ Append ```EXTRA\_OPERATORS=path/to/Plus-1D/operators``` to path/to/mxnet/config.
 
 ## Model performance outputs
 
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/1_GIF.gif) ![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/8_GIF.gif)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/3_GIF.gif) ![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/4_GIF.gif)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/5_GIF.gif) ![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/6_GIF.gif)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/7_GIF.gif) ![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/2_GIF.gif)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/1_GIF.gif) ![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/8_GIF.gif)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/3_GIF.gif) ![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/4_GIF.gif)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/5_GIF.gif) ![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/6_GIF.gif)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/7_GIF.gif) ![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/2_GIF.gif)
 
 ## Background
 3D imagery has two views, one for the left eye and the other for the right.
