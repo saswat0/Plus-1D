@@ -34,15 +34,15 @@ Thus, instead of predicting an depth map and then use it to recreate the missing
 
 Here are some visualizations of our internal depth representation to visualise it's working:
 
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0059.jpg)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0112.jpg)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0131.jpg)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0163.jpg)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0203.jpg)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0266.jpg)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0351.jpg)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0459.jpg)
-![alt text](https://raw.githubusercontent.com/piiswrong/deep3d/master/img/0471.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0059.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0112.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0131.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0163.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0203.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0266.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0351.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0459.jpg)
+![alt text](https://raw.githubusercontent.com/saswat0/Plus-1D/master/img/0471.jpg)
 
 Following each image, there are 4x3 maps of depth layers, ordered from near to far. You can see that objects that are near to you appear in the first depth maps and objects that are far away appear in the last ones. This shows that the internal depth representation is learning to infer depth from 2D images without been directly trained on it.
 
